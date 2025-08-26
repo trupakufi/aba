@@ -59,8 +59,8 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 | ---- | ------ | ------ | ---- |
 
 ### I
-| Name                 | Author     | Topics          | Link                                                |
-| -------------------- | ---------- | --------------- | --------------------------------------------------- |
+| Name                  | Author     | Topics          | Link                                                |
+| --------------------- | ---------- | --------------- | --------------------------------------------------- |
 | Ildeberto Vasconcelos | @ildysilva | Mobile, Flutter | [Ildeberto Vasconcelos Medium](https://ildysilva.medium.com/) |
 
 #### M
@@ -89,7 +89,8 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 | Name              | Author           | Topics                                         | Link                                                   |
 | ----------------- | ---------------- | ---------------------------------------------- | ------------------------------------------------------ |
 | AOSC Channel      | @angolaosc       | Open Source, Community                         | [AOSC YouTube Channel](https://www.youtube.com/@angolaosc) |
-| Antonio Developer | @antonio-pedro99 | Computer Science, Mobile, Android, Open Source | [Antonio Developer YouTube](https://www.youtube.com/@antdev010) |
+| Antonio Developer | @antonio-pedro99 | Computer Science, Mobile, Android, Open Source |
+|                   |                  |                                                | [Antonio Developer YouTube](https://www.youtube.com/@antdev010) |
 
 #### C
 
