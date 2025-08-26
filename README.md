@@ -35,7 +35,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
   - [B](#b-2)
 - [Podcasts](#podcasts)
   - [A](#a-3)
-  - [B](#b-3)
+  - [B](#b)
 - [Forums](#forums)
 
 ### Blogs
