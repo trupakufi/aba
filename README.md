@@ -19,11 +19,16 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
   - [A](#a)
   - [B](#b)
   - [C](#c)
+  - [I](#i)
+  - [M](#m)
   - [O](#o)
   - [P](#p)
 - [YouTube Channels](#youtube-channels)
   - [A](#a-1)
-  - [B](#b-1)
+  - [C](#c-1)
+  - [F](#f)
+  - [I](#i-1)
+  - [L](#l)
   - [P](#p-1)
 - [Newsletters](#newsletters)
   - [A](#a-2)
@@ -58,6 +63,12 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 | -------------- | -------------- | --------------- | ------------------------------------ |
 | Ildeberto Vasconcelos | @ildysilva | Mobile, Flutter| [Link](https://ildysilva.medium.com/) |
 
+#### M
+
+| Name           | Author         | Topics          | Link                                 |
+| -------------- | -------------- | --------------- | ------------------------------------ |
+| Mário Varela | @trupakufi | Software, JS, Mentoring | [Link](https://mariovarela99.medium.com/) |
+
 #### O
 
 | Name                   | Author     | Topics                  | Link                               |
@@ -80,7 +91,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 | AOSC Channel      | @angolaosc       | Open Source, Community                         | [Link](https://www.youtube.com/@angolaosc) |
 | Antonio Developer | @antonio-pedro99 | Computer Science, Mobile, Android, Open Source | [Link](https://www.youtube.com/@antdev010) |
 
-#### B
+#### C
 
 | Name          | Author        | Topics | Link                                         |
 | ------------- | ------------- | ------ | -------------------------------------------- |
@@ -92,7 +103,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 | -------------- | -------------- | ----------------------- | -------------------------------------- |
 | Freddy Danilo  | @FreddyDanilo  | Mobile, Web Development | [Link](www.youtube.com/@FreddyDanilo)  |
 
-### I
+#### I
 | Name                  | Author         | Topics          | Link                                 |
 | --------------------- | -------------- | --------------- | ------------------------------------ |
 | Ildeberto Vasconcelos | @ildysilva     | Mobile, Flutter | [Link](https://www.youtube.com/@ildebertov) |
