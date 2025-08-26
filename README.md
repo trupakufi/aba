@@ -42,10 +42,10 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 
 #### A
 
-| Name           | Author     | Topics                                         | Link                                  |
-| -------------- | ---------- | ---------------------------------------------- | ------------------------------------- |
-| AOSC Blog      | @angolaosc | Open Source, Community                         | [AOSC Blog](https://blog.angolaosc.org) |
-| ---            | ---        | ---                                            | ---                                   |
+| Name           | Author     | Topics                                         | Link                                      |
+| -------------- | ---------- | ---------------------------------------------- | ----------------------------------------- |
+| AOSC Blog      | @angolaosc | Open Source, Community                         | [AOSC Blog](https://blog.angolaosc.org)   |
+| ---            | ---        | ---                                            | ---                                       |
 | Alexandre Juca | @AlexJuca  | Systems, Software Development, AI, Open Source | [Alexandre Juca Blog](https://0xffa4.com) |
 
 #### B
@@ -59,64 +59,66 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 | ---- | ------ | ------ | ---- |
 
 ### I
-| Name                  | Author     | Topics          | Link                                                |
-| --------------------- | ---------- | --------------- | --------------------------------------------------- |
+
+| Name                  | Author     | Topics          | Link                                                          |
+| --------------------- | ---------- | --------------- | ------------------------------------------------------------- |
 | Ildeberto Vasconcelos | @ildysilva | Mobile, Flutter | [Ildeberto Vasconcelos Medium](https://ildysilva.medium.com/) |
 
 #### M
 
-| Name         | Author     | Topics                 | Link                                                      |
-| ------------ | ---------- | ---------------------- | --------------------------------------------------------- |
+| Name         | Author     | Topics                  | Link                                                     |
+| ------------ | ---------- | ----------------------- | -------------------------------------------------------- |
 | Mário Varela | @trupakufi | Software, JS, Mentoring | [Mário Varela Medium](https://mariovarela99.medium.com/) |
 
 #### O
 
-| Name                   | Author     | Topics                  | Link                                           |
-| ---------------------- | ---------- | ----------------------- | ---------------------------------------------- |
+| Name                   | Author     | Topics                  | Link                                               |
+| ---------------------- | ---------- | ----------------------- | -------------------------------------------------- |
 | Otoniel Emanuel - blog | @euotiniel | Software, Front-end, DX | [Otoniel Emanuel Blog](https://euotiniel.com/blog) |
 
 #### P
 
-| Name           | Author         | Topics          | Link                                             |
-| -------------- | -------------- | --------------- | ------------------------------------------------ |
+| Name           | Author         | Topics          | Link                                                  |
+| -------------- | -------------- | --------------- | ----------------------------------------------------- |
 | Pedro Massango | @pedromassango | Mobile, Flutter | [Pedro Massango Dev.to](https://dev.to/pedromassango) |
 
 ### YouTube Channels
 
 #### A
 
-| Name              | Author           | Topics                                         | Link                                                   |
-| ----------------- | ---------------- | ---------------------------------------------- | ------------------------------------------------------ |
-| AOSC Channel      | @angolaosc       | Open Source, Community                         | [AOSC YouTube Channel](https://www.youtube.com/@angolaosc) |
+| Name              | Author           | Topics                                         | Link                                                            |
+| ----------------- | ---------------- | ---------------------------------------------- | --------------------------------------------------------------- |
+| AOSC Channel      | @angolaosc       | Open Source, Community                         | [AOSC YouTube Channel](https://www.youtube.com/@angolaosc)      |
 | Antonio Developer | @antonio-pedro99 | Computer Science, Mobile, Android, Open Source | [Antonio Developer YouTube](https://www.youtube.com/@antdev010) |
 
 #### C
 
-| Name          | Author        | Topics | Link                                                      |
-| ------------- | ------------- | ------ | --------------------------------------------------------- |
+| Name          | Author        | Topics | Link                                                          |
+| ------------- | ------------- | ------ | ------------------------------------------------------------- |
 | Celson Paixão | @celsonpaixa0 | Mobile | [Celson Paixão YouTube](http://www.youtube.com/@celsonpaixa0) |
 
 #### F
 
-| Name          | Author        | Topics                  | Link                                                  |
-| ------------- | ------------- | ----------------------- | ----------------------------------------------------- |
+| Name          | Author        | Topics                  | Link                                                           |
+| ------------- | ------------- | ----------------------- | -------------------------------------------------------------- |
 | Freddy Danilo | @FreddyDanilo | Mobile, Web Development | [Freddy Danilo YouTube](https://www.youtube.com/@FreddyDanilo) |
 
 #### I
-| Name                  | Author     | Topics          | Link                                                    |
-| --------------------- | ---------- | --------------- | ------------------------------------------------------- |
+
+| Name                  | Author     | Topics          | Link                                                                 |
+| --------------------- | ---------- | --------------- | -------------------------------------------------------------------- |
 | Ildeberto Vasconcelos | @ildysilva | Mobile, Flutter | [Ildeberto Vasconcelos YouTube](https://www.youtube.com/@ildebertov) |
 
 #### L
 
-| Name          | Author            | Topics                             | Link                                                            |
-| --------------| ----------------- | ---------------------------------- | --------------------------------------------------------------- |
+| Name          | Author            | Topics                             | Link                                                               |
+| ------------- | ----------------- | ---------------------------------- | ------------------------------------------------------------------ |
 | Lázaro Manuel | @lazaromanuel3271 | Software Engineer, Web Development | [Lázaro Manuel YouTube](https://www.youtube.com/@lazaromanuel3271) |
 
 #### P
 
-| Name           | Author         | Topics          | Link                                                   |
-| -------------- | -------------- | --------------- | ------------------------------------------------------ |
+| Name           | Author         | Topics          | Link                                                             |
+| -------------- | -------------- | --------------- | ---------------------------------------------------------------- |
 | Pedro Massango | @pedromassango | Mobile, Flutter | [Pedro Massango YouTube](https://www.youtube.com/@pedromassango) |
 
 ### Newsletters
